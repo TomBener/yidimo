@@ -2,7 +2,7 @@
 
 一张会呼吸的宣纸。打开它，一行古诗会自己落在纸上，墨渗进纸纹；用手指划过，墨在水里翻卷，每一笔都有琴声。
 
-在线体验：<https://tombener.github.io/yidimo/>
+在线体验：<https://retompi.com/yidimo/>
 
 ## 能做什么
 
